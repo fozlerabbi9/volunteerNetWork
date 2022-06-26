@@ -1,0 +1,17 @@
+.navBar {
+    width: 40%;
+    margin: 0 auto;
+    box-shadow: 2px 2px 5px gray;
+    padding: 40px 10px;
+    text-align: left;
+}
+
+.loading-style {
+    color: black;
+    background-color: rgb(245, 41, 228);
+    width: 120px;
+    text-align: center;
+    padding: 3px 0;
+    font-size: 1.1rem;
+    border-radius: 0 20px 0 20px;
+}
